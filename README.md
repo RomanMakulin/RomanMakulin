@@ -43,9 +43,10 @@ I'm a backend-focused Java developer with 3+ years of experience building scalab
 
 ### **I2B** – Mid Java Developer / System Architect  
 **Dec 2024 – Present**  
-https://github.com/RomanMakulin/forensic_expertise_demo
 Built a microservice-based judicial expertise automation platform with full security and AI integration.  
 > 🚀 Result: Saved 30 hours/week of manual work for domain experts.
+
+> [Link project](https://github.com/RomanMakulin/forensic_expertise_demo)
 
 ### **Ann Psychology / Link Service** – Fullstack Java Developer  
 **Sep 2022 – Present**  
